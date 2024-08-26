@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/catalan-test-xwalk-commbank-10/:/",
+    "/content/catalan-test-xwalk-commbank-10/configuration:/.helix/config.json"
   ]
 }
